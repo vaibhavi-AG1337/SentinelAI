@@ -1,0 +1,9 @@
+Email scams often impersonate trusted organizations.
+
+Common signs:
+
+- Suspicious sender email
+- Poor grammar
+- Unexpected attachments
+- Requests for login credentials
+- Threatening language

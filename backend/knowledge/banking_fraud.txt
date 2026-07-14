@@ -1,0 +1,8 @@
+Banks never ask customers to share:
+
+- OTP
+- Password
+- PIN
+- CVV
+
+Always verify banking messages using the official mobile application or website.

@@ -1,0 +1,11 @@
+Phishing emails often create urgency by claiming that an account has been suspended or that immediate action is required.
+
+Common indicators include:
+
+- Unknown links
+- Requests for passwords
+- Requests for OTP
+- Fake bank notifications
+- Cash prize scams
+- Lottery scams
+- Gift card scams
