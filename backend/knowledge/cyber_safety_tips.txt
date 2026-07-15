@@ -1,0 +1,10 @@
+General Cybersecurity Best Practices:
+
+- Use strong unique passwords.
+- Enable multi-factor authentication.
+- Keep software updated.
+- Never share OTPs or passwords.
+- Verify suspicious messages.
+- Avoid clicking unknown links.
+- Regularly back up important data.
+- Install trusted antivirus software.

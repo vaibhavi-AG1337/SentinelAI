@@ -1,0 +1,11 @@
+Tech support scammers pretend to represent Microsoft, Google, Apple, or antivirus companies.
+
+Warning signs:
+- Pop-up warnings claiming your computer is infected.
+- Requests for remote desktop access.
+- Demands for payment to fix nonexistent issues.
+
+Safety Tips:
+- Close suspicious pop-ups.
+- Never allow remote access to unknown individuals.
+- Contact official customer support directly.

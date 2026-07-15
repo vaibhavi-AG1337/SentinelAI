@@ -1,2 +1,7 @@
+from rag.retriever import retrieve_context
+
 def analyze(message):
-    return "Knowledge base not connected yet."
+
+    _, sources = retrieve_context(message)
+
+    return sources

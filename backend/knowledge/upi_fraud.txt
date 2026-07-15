@@ -1,0 +1,15 @@
+UPI fraud is one of the most common digital payment scams.
+
+Fraudsters often pretend to be buyers, bank officials, or customer support executives.
+
+Common warning signs include:
+- Asking users to approve a "Collect Request."
+- Requesting OTPs or UPI PINs.
+- Sending fake payment screenshots.
+- Claiming money has been transferred when it has not.
+
+Safety Tips:
+- Never share your UPI PIN.
+- Verify payments inside your banking app.
+- Reject unknown collect requests.
+- Contact your bank if you suspect fraud.

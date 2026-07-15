@@ -1,0 +1,11 @@
+QR code scams trick users into scanning malicious QR codes.
+
+Scanning a QR code can:
+- Open fake banking websites.
+- Redirect users to phishing pages.
+- Trigger fraudulent payment requests.
+
+Safety Tips:
+- Scan QR codes only from trusted sources.
+- Verify the website URL before entering credentials.
+- Never scan QR codes sent by unknown individuals.

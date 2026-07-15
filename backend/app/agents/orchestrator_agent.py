@@ -14,6 +14,6 @@ def process(message):
 
     final_result = decide(rule_result, llm_result)
 
-    final_result["rag"] = rag_result
+   
 
     return final_result
